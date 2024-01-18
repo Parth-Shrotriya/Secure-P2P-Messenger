@@ -1,4 +1,4 @@
-![logo]([https://github.com/Parth-Shrotriya/MentHealth/blob/main/Turing_hacks(Hack%20Chambers).jpg](https://github.com/Parth-Shrotriya/Secure-P2P-Messenger/blob/main/Screenshot%202024-01-19%20013609.png))
+![logo](https://github.com/Parth-Shrotriya/Secure-P2P-Messenger/blob/main/Secure%20P2P%20Messenger.jpg)
 # Secure P2P Messenger
 Version: 1.0
 Platform: Windows, Mac OSX, and Linux
